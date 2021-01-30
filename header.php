@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title></title>
-		<meta name="description" content="Développeur WEB Yves SKRZYPCZYK">
+		<meta name="description" content="My Site">
         <link rel="stylesheet" href="css/cvstyle.css">
 	</head>
 	<body>
