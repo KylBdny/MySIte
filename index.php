@@ -1,3 +1,4 @@
 <?php
-    echo "Coucou";
+    require "header.php";
+    require "footer.php";
 ?>
