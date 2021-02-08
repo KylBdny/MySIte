@@ -33,7 +33,7 @@ function getReminder(){
   function greetInSpanish(){
     console.log('Buenas Tardes')
   }; */
-
+/* 
   var name ='Cole';
 
   function sayThanks(nom) {
@@ -41,6 +41,6 @@ function getReminder(){
   }
   
   sayThanks(name);
-
+ */
   
 
