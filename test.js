@@ -34,7 +34,13 @@ function getReminder(){
     console.log('Buenas Tardes')
   }; */
 
+  var name ='Cole';
 
+  function sayThanks(nom) {
+    console.log('Thank you for your purchase ' + nom + ' ! We appreciate your business.');
+  }
+  
+  sayThanks(name);
 
   
 
