@@ -24,3 +24,14 @@ switch(athleteFinalPosition){
     console.log('No medal awarded.');
     break;
 } */
+/* 
+function getReminder(){
+    console.log('Water the plants')
+  
+  };
+  
+  function greetInSpanish(){
+    console.log('Buenas Tardes')
+  }; */
+
+  
