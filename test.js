@@ -42,5 +42,3 @@ function getReminder(){
   
   sayThanks(name);
  */
-  
-
